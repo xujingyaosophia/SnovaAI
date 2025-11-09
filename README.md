@@ -12,6 +12,8 @@ SnovaAI is a cross-domain AI reasoning platform that **goes beyond traditional k
 - Performs formula inference and verification  
 - Visualizes reasoning steps for easy understanding  
 
+Why SnovaAI? Unlike existing AI tools that mostly summarize or suggest based on known data, SnovaAI can propose truly novel variables and hypotheses, providing researchers with inspiration and logical pathways to explore problems that have never been solved before.
+
 > Note: The core AI reasoning engine and algorithm implementations are **closed source**.
 
 ## Accessing the App
