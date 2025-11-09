@@ -20,7 +20,7 @@ SnovaAI is a cross-domain AI reasoning platform that **goes beyond traditional k
 Users can access the app through:
 
 - **Web App**:https://studio--studio-5769613758-f4df9.us-central1.hosted.app
-- 
+
 ## License & Usage
 
 - The repository is **public for documentation and demo purposes** only  
