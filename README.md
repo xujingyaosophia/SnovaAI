@@ -8,7 +8,6 @@ Core AI reasoning engine and source code are proprietary and not included.
 
 SnovaAI is a cross-domain AI reasoning platform that **goes beyond traditional knowledge retrieval**:
 
-- Automatically extracts structured knowledge from scientific papers (PDFs, images, formulas)  
 - Generates **novel hypotheses and reasoning chains** that do not yet exist in current research  
 - Performs formula inference and verification  
 - Visualizes reasoning steps for easy understanding  
